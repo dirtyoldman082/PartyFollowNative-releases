@@ -3,16 +3,16 @@
 "Author": "Dirty Oldman",
 "Name": "PartyFollowNative",
 "InternalName": "PartyFollowNative",
-"AssemblyVersion": "1.5.11.0",
+"AssemblyVersion": "1.5.12.0",
 "DalamudApiLevel": 15,
-"Version": "1.5.11.0",
+"Version": "1.5.12.0",
 "Punchline": "設定画面: /pfn",
 "Description": "パーティメンバーの追従、ジャンプ、散開",
 "ApplicableVersion": "any",
 "LoadPriority": 0,
 "IconUrl": "https://raw.githubusercontent.com/dirtyoldman082/PartyFollowNative-releases/main/PartyFollowNative.png",
-"DownloadLinkInstall": "https://github.com/dirtyoldman082/PartyFollowNative-releases/releases/download/v1.5.11.0/PartyFollowNative.zip",
-"DownloadLinkTesting": "https://github.com/dirtyoldman082/PartyFollowNative-releases/releases/download/v1.5.11.0/PartyFollowNative.zip",
-"DownloadLinkUpdate": "https://github.com/dirtyoldman082/PartyFollowNative-releases/releases/download/v1.5.11.0/PartyFollowNative.zip"
+"DownloadLinkInstall": "https://github.com/dirtyoldman082/PartyFollowNative-releases/releases/download/v1.5.12.0/PartyFollowNative.zip",
+"DownloadLinkTesting": "https://github.com/dirtyoldman082/PartyFollowNative-releases/releases/download/v1.5.12.0/PartyFollowNative.zip",
+"DownloadLinkUpdate": "https://github.com/dirtyoldman082/PartyFollowNative-releases/releases/download/v1.5.12.0/PartyFollowNative.zip"
 }
 ]
